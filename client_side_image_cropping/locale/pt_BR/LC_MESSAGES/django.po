@@ -1,0 +1,46 @@
+# Copyleft (C) 2021 Thyago Tosin
+# This file is distributed under the same license as the django-client-side-image-cropping package.
+# FIRST AUTHOR thyagotosin@gmail.com, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-13 23:25+0100\n"
+"PO-Revision-Date: 2021-10-13 23:36-0400\n"
+"Last-Translator: Thyago Tosin\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Team: \n"
+"X-Generator: Poedit 3.0\n"
+
+#: templates/client-side_cropping_widget.html:7
+msgid "Choose image"
+msgstr "Escolha a imagem"
+
+#: templates/client-side_cropping_widget.html:8
+msgid "Choose other image"
+msgstr "Escolha outra imagem"
+
+#: templates/client-side_cropping_widget.html:11
+msgid "Delete image"
+msgstr "Excluir imagem"
+
+#: templates/client-side_cropping_widget.html:16
+msgid "Rotate left"
+msgstr "Girar Esquerda"
+
+#: templates/client-side_cropping_widget.html:16
+msgid "Rotate right"
+msgstr "Girar Direta"
+
+#: templates/client-side_cropping_widget.html:17
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/client-side_cropping_widget.html:17
+msgid "OK"
+msgstr "OK"
