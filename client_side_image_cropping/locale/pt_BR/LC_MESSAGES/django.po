@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: django-client-side-image-cropping\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-13 23:25+0100\n"
 "PO-Revision-Date: 2021-10-14 00:09-0400\n"
@@ -14,8 +14,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Language-Team: Portugese(Brazil)\n"
-"X-Generator: Poedit 3.0\n"
 
 #: templates/client-side_cropping_widget.html:7
 msgid "Choose image"
